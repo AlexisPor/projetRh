@@ -1,2 +1,2 @@
 projetRh
-Projet de gestion rh réalisé avec Spring 
+Projet de gestion rh réalisé avec Spring et JSP.
